@@ -10,11 +10,11 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/DonovanReyes/configure-ad)
  
 - <b>SCCM/MECM DOCUMENTATION</b>
-  - [Adding Devices to a Device Collection]()
-  - [Creating a Device Collection]()
-  - [Creating Distribution Groups]()
-  - [Distributing Task Sequences/Applications]()
-  - [Deploying Task Sequences]()
+  - [Adding Devices to a Device Collection](https://github.com/DonovanReyes/MECM-Device-to-collection)
+  - [Creating a Device Collection](https://github.com/DonovanReyes/MECM-Device-collection)
+  - [Creating Distribution Groups](https://github.com/DonovanReyes/MECM-Distribution-Groups)
+  - [Distributing Task Sequences/Applications](https://github.com/DonovanReyes/MECM-Distributing-TS-and-APPS)
+  - [Deploying Task Sequences](https://github.com/DonovanReyes/Deploying-task-sequences)
     
 
 <h2>🤳Connect with me:</h2>
