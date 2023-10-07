@@ -13,7 +13,7 @@
   - [Adding Devices to a Device Collection]()
   - [Creating a Device Collection]()
   - [Creating Distribution Groups]()
-  - [Distributing Task Sequences]()
+  - [Distributing Task Sequences/Applications]()
   - [Deploying Task Sequences]()
     
 
