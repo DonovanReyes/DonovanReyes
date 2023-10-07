@@ -8,6 +8,14 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines on Microsoft Azure](https://github.com/DonovanReyes/azure-virtual-machines)
   - [Configuring Active Directory within Azure VMs](https://github.com/DonovanReyes/configure-ad)
+ 
+- <b>SCCM/MECM DOCUMENTATION</b>
+  - [Adding Devices to a Device Collection]()
+  - [Creating a Device Collection]()
+  - [Creating Distribution Groups]()
+  - [Distributing Task Sequences]()
+  - [Deploying Task Sequences]()
+    
 
 <h2>🤳Connect with me:</h2>
 
